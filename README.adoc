@@ -1,0 +1,20 @@
+= Stellaris Mod「星系基地の製造コスト削減」
+:author: ERRORJP
+:toc: left
+:toc-title: 目次
+:sectnums:
+
+== これはなに？
+ポートレート関連の仕組みの調査を兼ねて練習で作成したD言語くんのポートレートを追加用MODです。 +
+通常の赤色カラーのみのD言語くんと、RGBCMYの6種類のカラフルなD言語くんのポトレを用意しました。
+
+ランダム帝国名を思いつかなかった関係でランダム生成された星系の名前にGoやLisp関連の名前がつくことがあります。  +
+なお、GopherやLispモンスターは登場しません。  +
+RPする際に登場した場合は、その星系内のGopherやLispモンスターを滅ぼしたとでも考えて貰えればと。
+
+それと音声が煩いです…すいません…。
+
+== 使い方
+Steam版のStellarisをご利用の方は、以下からサブスクライブしてください。 +
+https://steamcommunity.com/sharedfiles/filedetails/?id=2759667965
+

@@ -1,0 +1,146 @@
+##############################################################
+# ランダム生成される帝国名用の定義
+# name : 種族名
+# plural : 種族名(複数形)
+# home_planet : 惑星名
+# home_system : 恒星名
+# name_list : ネームリスト…思いつかないので公式のHUM1を使い回し
+##############################################################
+#最大全角６文字
+### D言語くん種族(有機種族)
+d-man-biologicals = {
+	d-man1 = {
+		name = "D言語くん"
+		plural = "D言語くん"
+		home_planet = "D Lang"
+		home_system = "DMD"
+		name_list = "HUM1"
+	}
+	d-man2 = {
+		name = "D言語くん"
+		plural = "D言語くん"
+		home_planet = "D"
+		home_system = "GDC"
+		name_list = "HUM1"
+	}
+	d-man3 = {
+		name = "D言語くん"
+		plural = "D言語くん"
+		home_planet = "D-man"
+		home_system = "LDC"
+		name_list = "HUM1"
+	}
+	d-man4 = {
+		name = "D言語くん"
+		plural = "D言語くん"
+		home_planet = "Go Lang"
+		home_system = "gc"
+		name_list = "HUM1"
+	}
+	d-man5 = {
+		name = "D言語くん"
+		plural = "D言語くん"
+		home_planet = "Go"
+		home_system = "Gccgo"
+		name_list = "HUM1"
+	}
+	d-man6 = {
+		name = "D言語くん"
+		plural = "D言語くん"
+		home_planet = "Lisp"
+		home_system = "CLISP"
+		name_list = "HUM1"
+	}
+}
+
+# D言語くん種族(機械知性)
+d-man-machines = {
+	d-man11 = {
+		name = "D言語くん"
+		plural = "D言語くん"
+		home_planet = "D Lang"
+		home_system = "DMD"
+		name_list = "HUM1"
+	}
+	d-man12 = {
+		name = "D言語くん"
+		plural = "D言語くん"
+		home_planet = "D"
+		home_system = "GDC"
+		name_list = "HUM1"
+	}
+	d-man13 = {
+		name = "D言語くん"
+		plural = "D言語くん"
+		home_planet = "D-man"
+		home_system = "LDC"
+		name_list = "HUM1"
+	}
+	d-man14 = {
+		name = "D言語くん"
+		plural = "D言語くん"
+		home_planet = "Go Lang"
+		home_system = "gc"
+		name_list = "HUM1"
+	}
+	d-man15 = {
+		name = "D言語くん"
+		plural = "D言語くん"
+		home_planet = "Go"
+		home_system = "Gccgo"
+		name_list = "HUM1"
+	}
+	d-man16 = {
+		name = "D言語くん"
+		plural = "D言語くん"
+		home_planet = "Lisp"
+		home_system = "CLISP"
+		name_list = "HUM1"
+	}
+}
+
+# D言語くん種族(岩石種族)
+d-man-lithoids = {
+	d-man21 = {
+		name = "D言語くん"
+		plural = "D言語くん"
+		home_planet = "D Lang"
+		home_system = "DMD"
+		name_list = "HUM1"
+	}
+	d-man22 = {
+		name = "D言語くん"
+		plural = "D言語くん"
+		home_planet = "D"
+		home_system = "GDC"
+		name_list = "HUM1"
+	}
+	d-man23 = {
+		name = "D言語くん"
+		plural = "D言語くん"
+		home_planet = "D-man"
+		home_system = "LDC"
+		name_list = "HUM1"
+	}
+	d-man24 = {
+		name = "D言語くん"
+		plural = "D言語くん"
+		home_planet = "Go Lang"
+		home_system = "gc"
+		name_list = "HUM1"
+	}
+	d-man25 = {
+		name = "D言語くん"
+		plural = "D言語くん"
+		home_planet = "Go"
+		home_system = "Gccgo"
+		name_list = "HUM1"
+	}
+	d-man26 = {
+		name = "D言語くん"
+		plural = "D言語くん"
+		home_planet = "Lisp"
+		home_system = "CLISP"
+		name_list = "HUM1"
+	}
+}
