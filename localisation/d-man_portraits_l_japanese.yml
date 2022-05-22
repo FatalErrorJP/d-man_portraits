@@ -1,4 +1,7 @@
-﻿l_english:
+﻿l_japanese:
+  ###################################################################
+  # 種族のローカライズ定義
+  ###################################################################
   d-man-biologicals:0 "D言語くん(有機)"
   d-man-biologicals_desc:0 "プログラム言語の1つ、D言語のマスコットキャラクター。プログラム言語マスコット界隈の中では恐らく最も人気のあるマスコットキャラクターだと思われる"
   d-man-biologicals_plural:0 "D言語くん"
@@ -85,3 +88,21 @@
   d-man-lithoids_fossil_plural:0 "化石"
   d-man-lithoids_remnant:0 "骨格"
   d-man-lithoids_remnant_plural:0 "骨格"
+
+  ###################################################################
+  # ランダム帝国ローカライズ定義
+  ###################################################################
+  SPEC_D-MAN:0 "D-Man"
+  SPEC_D-MAN_pl:0 "D-Man"
+  SPEC_D-MAN_planet1:0 "D Lang"
+  SPEC_D-MAN_planet2:0 "D"
+  SPEC_D-MAN_planet3:0 "D-Man"
+  SPEC_D-MAN_planet4:0 "Go Lang"
+  SPEC_D-MAN_planet5:0 "Go"
+  SPEC_D-MAN_planet6:0 "Lisp"
+  SPEC_D-MAN_system1:0 "DMD"
+  SPEC_D-MAN_system2:0 "GDC"
+  SPEC_D-MAN_system3:0 "LDC"
+  SPEC_D-MAN_system4:0 "gc"
+  SPEC_D-MAN_system5:0 "Gccgo"
+  SPEC_D-MAN_system6:0 "CLISP"
